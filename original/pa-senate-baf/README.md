@@ -7,9 +7,9 @@ All of the plans were sourced from the LRC website at <https://www.redistricting
 
 Citizen Submissions to LRC:
 
-#. allentown_map_by_as_jan-4-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1616 (https://davesredistricting.org/maps#viewmap::01c1044c-2940-414f-a8c8-fcec75312143)
-#. bucks_co._senate_districts_communities_of_interest_by_at_aug-2-2021.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/13
-#. holt_senate_map(exception_2_pittsburgh_division)_by_sp_jan-2-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1472 (https://davesredistricting.org/maps#viewmap::17aa3f34-6c2f-487d-bb71-653c1fe2cf87)
+1. allentown_map_by_as_jan-4-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1616 (https://davesredistricting.org/maps#viewmap::01c1044c-2940-414f-a8c8-fcec75312143)
+1. bucks_co._senate_districts_communities_of_interest_by_at_aug-2-2021.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/13
+1. holt_senate_map(exception_2_pittsburgh_division)_by_sp_jan-2-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1472 (https://davesredistricting.org/maps#viewmap::17aa3f34-6c2f-487d-bb71-653c1fe2cf87)
 keep_state_college_area_intact_by_dt_dec-17-2021.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/798
 lehigh_county_state_senate_map_by_lh_dec-28-2021.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1204 (https://davesredistricting.org/maps#viewmap::01c1044c-2940-414f-a8c8-fcec75312143)
 lehigh_senate_maps_by_ea_jan-3-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1567 (https://davesredistricting.org/maps#viewmap::01c1044c-2940-414f-a8c8-fcec75312143)

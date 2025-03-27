@@ -5,7 +5,7 @@
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as shapefiles.
 
-Citizen Submissions to LRC:
+## Citizen Submissions to LRC
 
 1. jared_hendersons_state_senate_proposal_1_by_jh_nov-2-2021.csv - downloaded as shapefile at https://www.redistricting.state.pa.us/comment/submission/447 (https://app.districtbuilder.org/projects/1d84c9af-be8e-406f-87d0-1636aa9fbba8) and converted into best estimate precinct assignment file
 2. official_submission_for_pa_senate_districts_by_m_oct-26-2021.csv - downloaded as shapefile at https://www.redistricting.state.pa.us/comment/submission/414 and converted into best estimate precinct assignment file

@@ -5,7 +5,7 @@
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as block assignment files. 
 
-Citizen Submissions to LRC:
+## Citizen Submissions to LRC
 
 1. allentown_map_by_as_jan-4-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1616 (https://davesredistricting.org/maps#viewmap::01c1044c-2940-414f-a8c8-fcec75312143)
 1. bucks_co._senate_districts_communities_of_interest_by_at_aug-2-2021.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/13

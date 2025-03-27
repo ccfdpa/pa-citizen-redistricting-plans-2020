@@ -5,7 +5,7 @@
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as block assignment files. 
 
-Citizen Submissions to LRC:
+## Citizen Submissions to LRC
 
 1. concise_westmoreland_by_mb_jan-7-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/2220 (https://davesredistricting.org/maps#viewmap::73edef3f-f979-45a5-badf-5a044d3a3cdf)
 1. consolidated_lrc_testimony_solutions(all)_by_pr_jan-15-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/4288 (https://davesredistricting.org/maps#viewmap::1fe3194a-1068-4c59-ac51-2bfa735fa26b)

@@ -1,12 +1,12 @@
 # Congressional Shapefile Plans
 
 * Number of Total Plans: 21
-* Citizen Submissions to Congressional Redistricting Body: 19
+* Citizen Submissions to House Republican Caucus Public Comment Portal: 19
 * Citizen Submissions to LRC: 2
 
 All files were submitted as shapefiles and converted into block assignment files in the pa-congressional folder.
 
-Citizen Submissions to Congressional Redistricting Body:
+## Citizen Submissions to House Republican Caucus Public Comment Portal
 
 1. bipartisan_minimal_variance_plan_by_brandon_bechtel_2021-11-22
 1. ccfd_ruleset-equal_population_by_anne_hanna_2021-12-06
@@ -28,7 +28,9 @@ Citizen Submissions to Congressional Redistricting Body:
 1. plan_1-bipartisan_plan_by_nathan_rybner_2021-11-11
 1. reduced_bias_variant_based_on_dtl_citizens_map_by_michael_waxenberg_2021-12-06
 
-Citizen Submissions to LRC (downloaded from <https://www.redistricting.state.pa.us/comment/search>):
+## Citizen Submissions to LRC
+
+Incorrectly submitted to LRC, downloaded from <https://www.redistricting.state.pa.us/comment/search>.
 
 1. pa_congressional_by_rn_sep-15-2021 - downloaded as a shapefile at https://www.redistricting.state.pa.us/comment/submission/177
 1. pa_congressional_map-community_representative_by_js_nov-20-2021 - downloaded as a shapefile at https://www.redistricting.state.pa.us/comment/submission/548

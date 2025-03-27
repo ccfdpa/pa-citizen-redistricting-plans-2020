@@ -5,7 +5,7 @@
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as shapefiles.
 
-Citizen Submissions to LRC:
+## Citizen Submissions to LRC
 
 1. adjustments_to_preliminary_map_by_nr_dec-22-2021.csv - downloaded as a shapefile at https://www.redistricting.state.pa.us/comment/submission/1003 (https://app.districtbuilder.org/projects/fedef0c7-92d2-4d5f-ae99-72eba6524565) and converted into a best estimate precinct assignment file
 1. plan_b_modification_for_lancaster_county_by_nr_dec-31-2021.csv - downloaded as a shapefile at https://www.redistricting.state.pa.us/comment/submission/1430 (https://app.districtbuilder.org/projects/0765f9e7-22c7-4a50-a268-7e99481e67de) and converted into a best estimate precinct assignment file

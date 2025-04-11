@@ -8,7 +8,7 @@
 All of the plans submitted to the House Republican Caucus Public Comment Portal and the LRC were in shapefile form. Utilizing the a file that created a point on each block, the block assignments for each map were created. 
 This was done by assigning those points to districts based on which district they intersected with on the shapefile.
 
-All of the plans submitted to the 464 MD 465 MD court case were downloaded as block assignment files, either in a csv or excel spreadsheet. Files submitted as an excel spreadsheet were saved as a csv.
+All of the plans submitted to the 464 MD 465 MD court case were downloaded as block assignment files, either in a CSV or Excel spreadsheet. Files submitted as an Excel spreadsheet were saved as a CSV.
 
 ## Citizen Submissions to House Republican Caucus Public Comment Portal:
 
@@ -41,7 +41,7 @@ Incorrectly submitted to LRC, downloaded from <https://www.redistricting.state.p
 
 ## Submissions to Court Case 464 MD 465 MD
 
-Downloaded from <https://www.pacourts.us/news-and-statistics/cases-of-public-interest/redistricting-cases-464-md-2021-and-465-md-2021>).
+Downloaded from <https://www.pacourts.us/news-and-statistics/cases-of-public-interest/redistricting-cases-464-md-2021-and-465-md-2021>.
 
 1. 464_MD_465_MD_carter_plan
 1. 464_MD_465_MD_reschenthaler2

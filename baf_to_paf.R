@@ -83,3 +83,7 @@ target_dir = "pa-senate/"
 baf_dir_to_paf_dir(source_dir, target_dir, crosswalk,
                    crosswalk_block_col = "block_id", precinct_col = "precinct_id")
 
+source_dir = "original/pa-house-baf/"
+target_dir = "pa-house/"
+baf_dir_to_paf_dir(source_dir, target_dir, crosswalk,
+                   crosswalk_block_col = "block_id", precinct_col = "precinct_id")

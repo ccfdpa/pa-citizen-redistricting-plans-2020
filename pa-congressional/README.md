@@ -5,8 +5,7 @@
 * Citizen Submissions to LRC: 2
 * Submissions to Court Case 464 MD 465 MD: 14 (1 file omitted due to corrections)
 
-All of the plans submitted to the House Republican Caucus Public Comment Portal and the LRC were in shapefile form. Utilizing the a file that created a point on each block, the block assignments for each map were created. 
-This was done by assigning those points to districts based on which district they intersected with on the shapefile.
+All of the plans submitted to the LRC and the House Republican Caucus public comment portal were in shapefile form. A best estimate block assignment file was created using a point-in-polygon operation.
 
 All of the plans submitted to the 464 MD 465 MD court case were downloaded as block assignment files, either in a CSV or Excel spreadsheet. Files submitted as an Excel spreadsheet were saved as a CSV.
 

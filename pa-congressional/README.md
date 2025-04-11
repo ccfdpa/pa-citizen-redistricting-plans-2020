@@ -1,9 +1,9 @@
 # Congressional Plans
 
-* Number of plans total: 36
+* Number of plans total: 35
 * Citizen Submissions to House Republican Caucus Public Comment Portal: 19
 * Citizen Submissions to LRC: 2
-* Submissions to Court Case 464 MD 465 MD: 15
+* Submissions to Court Case 464 MD 465 MD: 14 (1 file omitted due to corrections)
 
 All of the plans submitted to the House Republican Caucus Public Comment Portal and the LRC were in shapefile form. Utilizing the a file that created a point on each block, the block assignments for each map were created. 
 This was done by assigning those points to districts based on which district they intersected with on the shapefile.
@@ -54,7 +54,6 @@ Downloaded from <https://www.pacourts.us/news-and-statistics/cases-of-public-int
 1. 464_MD_465_MD_republican_legislator
 1. 464_MD_465_MD_senate_democratic_caucus-map_2
 1. 464_MD_465_MD_senate_democratic-caucus-map_1
-1. 464_MD_465_MD_voters_of_pa
 1. 464_MD_465_MD_voters_of_pa(corrected)
 1. 464_MD_465_MD_ccfd
 1. 464_MD_465_MD_citizen_voters

@@ -1,7 +1,7 @@
 # Legislative House Plans
 
-* Number of Total Plans: 8
-* Citizen Submissions to LRC: 8
+* Total Plans: 8
+    * Citizen submissions to LRC: 8
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as shapefiles.
 

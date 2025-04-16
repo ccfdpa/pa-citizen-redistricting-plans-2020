@@ -1,8 +1,8 @@
 # Congressional Shapefile Plans
 
-* Number of Total Plans: 21
-* Citizen Submissions to House Republican Caucus Public Comment Portal: 19
-* Citizen Submissions to LRC: 2
+* Total Plans: 21
+    * Citizen submissions to House Republican Caucus public comment portal: 19
+    * Citizen submissions to LRC: 2
 
 All files were submitted as shapefiles and converted into block assignment files in the pa-congressional folder.
 

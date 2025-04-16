@@ -23,5 +23,9 @@ Of these:
 
 Additionally, 464_MD_465_MD_house_democratic_caucus.csv was submitted without a header row. A header row (`GEOID20`, `District`) was added, so the file in this folder is technically not the original court submission.
 
+## Citizen Submissions to LRC
 
+Incorrectly submitted to LRC, downloaded from <https://www.redistricting.state.pa.us/comment/search>.
+
+1. us_house_map_by_jc_dec-15-2021 - downloaded as a block assignment file at <https://www.redistricting.state.pa.us/comment/submission/765> (<https://app.districtbuilder.org/projects/bacb724e-66dd-4980-a43a-edfcd91a6636>). This map has one block (420430248022055) with zero population assigned to no district. It is surrounded by blocks assigned to district 11. The original file is preserved in this folder, and a corrected file is in the pa-congressional folder.
 

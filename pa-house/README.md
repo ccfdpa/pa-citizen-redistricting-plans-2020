@@ -41,7 +41,6 @@ Best estimate precinct assignment files have been made for shapefiles, utilizing
 1. preliminary_lrc_map-lancaster_50-96-41_edit_by_ar_dec-20-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/934 (https://davesredistricting.org/maps#viewmap::17353986-529d-47f2-ace4-e512537f1dd7)
 1. proposed_revisions_for_the_lrc_house_map_by_ck_jan-6-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/1993 (https://davesredistricting.org/maps#viewmap::155bb35d-3ccc-45fb-85a7-92db68b9d211)
 1. state_house_prioritizing_splitting_compactness_by_rc_aug-2-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/15
-1. us_house_map_by_jc_dec-15-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/765 (https://app.districtbuilder.org/projects/bacb724e-66dd-4980-a43a-edfcd91a6636)
 1. westmoreland_united_by_mk_jan-17-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/5081
 
 ## Shapefile Submissions to LRC

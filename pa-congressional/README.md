@@ -1,9 +1,9 @@
 # Congressional Plans
 
-* Number of plans total: 35
-* Citizen Submissions to House Republican Caucus Public Comment Portal: 19
-* Citizen Submissions to LRC: 2
-* Submissions to Court Case 464 MD 465 MD: 14 (1 file omitted due to corrections)
+* Total Plans: 36
+    * Citizen Submissions to House Republican Caucus Public Comment Portal: 19
+    * Citizen Submissions to LRC: 3
+    * Submissions to Court Case 464 MD 465 MD: 14 (1 file omitted due to corrections)
 
 All of the plans submitted to the LRC and the House Republican Caucus public comment portal were in shapefile form. A best estimate block assignment file was created using a point-in-polygon operation.
 
@@ -37,6 +37,7 @@ Incorrectly submitted to LRC, downloaded from <https://www.redistricting.state.p
 
 1. pa_congressional_by_rn_sep-15-2021 - downloaded as a shapefile at <https://www.redistricting.state.pa.us/comment/submission/177> and converted into a best estimate block assignment file
 1. pa_congressional_map-community_representative_by_js_nov-20-2021 - downloaded as a shapefile at <https://www.redistricting.state.pa.us/comment/submission/548> and converted into a best estimate block assignment file
+1. us_house_map_by_jc_dec-15-2021 - downloaded as a block assignment file at <https://www.redistricting.state.pa.us/comment/submission/765> (<https://app.districtbuilder.org/projects/bacb724e-66dd-4980-a43a-edfcd91a6636>)
 
 ## Submissions to Court Case 464 MD 465 MD
 

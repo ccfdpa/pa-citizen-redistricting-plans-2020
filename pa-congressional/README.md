@@ -35,12 +35,14 @@ All of the plans submitted to the 464 MD 465 MD court case were downloaded as bl
 
 Incorrectly submitted to LRC, downloaded from <https://www.redistricting.state.pa.us/comment/search>.
 
-1. pa_congressional_by_rn_sep-15-2021 - downloaded as a shapefile at https://www.redistricting.state.pa.us/comment/submission/177 and converted into a best estimate block assignment file
-1. pa_congressional_map-community_representative_by_js_nov-20-2021 - downloaded as a shapefile at https://www.redistricting.state.pa.us/comment/submission/548 and converted into a best estimate block assignment file
+1. pa_congressional_by_rn_sep-15-2021 - downloaded as a shapefile at <https://www.redistricting.state.pa.us/comment/submission/177> and converted into a best estimate block assignment file
+1. pa_congressional_map-community_representative_by_js_nov-20-2021 - downloaded as a shapefile at <https://www.redistricting.state.pa.us/comment/submission/548> and converted into a best estimate block assignment file
 
 ## Submissions to Court Case 464 MD 465 MD
 
 Downloaded from <https://www.pacourts.us/news-and-statistics/cases-of-public-interest/redistricting-cases-464-md-2021-and-465-md-2021>.
+
+Five of the 464 MD 465 MD submissions incorrectly used the LRC block file, which split some Census blocks. See the [README in the original/pa-congressional-baf folder](../original/pa-congressional-baf/README.md) for information on how these files were processed, as well as the original files.
 
 1. 464_MD_465_MD_carter_plan
 1. 464_MD_465_MD_reschenthaler2

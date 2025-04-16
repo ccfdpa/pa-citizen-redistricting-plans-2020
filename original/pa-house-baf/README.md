@@ -1,7 +1,7 @@
 # Legislative House Plans
 
-* Total Plans: 24
-    * Citizen submissions to LRC: 24
+* Total Plans: 23
+    * Citizen submissions to LRC: 23
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as block assignment files. They were converted to precinct assignment files using [baf_to_paf.R](/baf_to_paf.R).
 
@@ -29,5 +29,4 @@ pa_house_dist_77_82_171_proposed_map_by_bk_jan-16-2022 - downloaded as a block a
 1. proposed_revisions_for_the_lrc_house_map_by_ck_jan-6-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/1993 (https://davesredistricting.org/maps#viewmap::155bb35d-3ccc-45fb-85a7-92db68b9d211)
 1. revisions_to_proposed_state_house_districts_by_ay_jan-18-2022- downloaded as a block assignment file from <https://www.redistricting.state.pa.us/comment/submission/5412> (<https://davesredistricting.org/maps#viewmap::8f9a0b20-1b90-4d99-a10d-721ab4ad8285>).
 1. state_house_prioritizing_splitting_compactness_by_rc_aug-2-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/15
-us_house_map_by_jc_dec-15-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/765 (https://app.districtbuilder.org/projects/bacb724e-66dd-4980-a43a-edfcd91a6636)
 1. westmoreland_united_by_mk_jan-17-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/5081

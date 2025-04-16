@@ -7,8 +7,8 @@ All of the plans were sourced from the LRC website at <https://www.redistricting
 
 ## Citizen Submissions to LRC
 
-1. concise_westmoreland_by_mb_jan-7-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/2220 (https://davesredistricting.org/maps#viewmap::73edef3f-f979-45a5-badf-5a044d3a3cdf)
-1. consolidated_lrc_testimony_solutions(all)_by_pr_jan-15-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/4288 (https://davesredistricting.org/maps#viewmap::1fe3194a-1068-4c59-ac51-2bfa735fa26b)
+1. concise_westmoreland_by_mb_jan-7-2022 - downloaded as a block assignment file at <https://www.redistricting.state.pa.us/comment/submission/2220> (<https://davesredistricting.org/maps#viewmap::73edef3f-f979-45a5-badf-5a044d3a3cdf>)
+1. consolidated_lrc_testimony_solutions(all)_by_pr_jan-15-2022 - downloaded as a block assignment file at <https://www.redistricting.state.pa.us/comment/submission/4288> (<https://davesredistricting.org/maps#viewmap::1fe3194a-1068-4c59-ac51-2bfa735fa26b>)
 1. do_not_split_mechanicsburg_borough_by_km_jan-18-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/5108 (https://davesredistricting.org/maps#viewmap::f95d5c12-3651-4f85-99a5-90de67f6debb)
 1. kieran_francke_by_kf_nov-16-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/504 (https://davesredistricting.org/maps#viewmap::5f6aaa70-7421-4d4c-8860-63ded8a8b003)
 1. lancaster_county_metro_area_by_ed_dec-21-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/973

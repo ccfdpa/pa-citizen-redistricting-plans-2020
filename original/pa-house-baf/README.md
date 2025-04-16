@@ -1,9 +1,9 @@
 # Legislative House Plans
 
-* Number of Total Plans: 23
-* Citizen Submissions to LRC: 23
+* Total Plans: 23
+    * Citizen submissions to LRC: 23
 
-All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as block assignment files. 
+All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as block assignment files. They were converted to precinct assignment files using [baf_to_baf.R](/baf_to_baf.R).
 
 ## Citizen Submissions to LRC
 

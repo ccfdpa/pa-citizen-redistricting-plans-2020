@@ -1,9 +1,9 @@
 # Congressional Excel Plans
 
-* Number of Total Plans: 3
-* Submissions to Court Case 464 MD 465 MD: 3
+* Total Plans: 3
+    * Submissions to Court Case 464 MD 465 MD: 3
 
-All plans were downloaded from <https://www.pacourts.us/news-and-statistics/cases-of-public-interest/redistricting-cases-464-md-2021-and-465-md-2021> as Excel spreadsheets and saved as a csv in the pa-congressional folder.
+All plans were downloaded from <https://www.pacourts.us/news-and-statistics/cases-of-public-interest/redistricting-cases-464-md-2021-and-465-md-2021> as Excel spreadsheets and saved as CSVs in appropriate folders.
 
 ## Submissions to Court Case 464 MD 465 MD
 

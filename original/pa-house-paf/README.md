@@ -1,1 +1,10 @@
-This folder contains a single redistricting plan, revisions_to_proposed_state_house_districts_by_ay_jan-18-2022.csv. This plan was downloaded as a precinct assignment file from downloaded as a precinct assignment file at https://www.redistricting.state.pa.us/comment/submission/5412 (https://davesredistricting.org/maps#viewmap::8f9a0b20-1b90-4d99-a10d-721ab4ad8285). The "precinct assignment file" contained one precinct (42091003077, assigned to House District 153) which was split into its constituent blocks, and one block (420912014083006) which was both assigned to House District 153 *and* overlapped with an unsplit precinct assigned to House District 151. The resulting file was invalid because of the double-counted block. It is not clear whether the person creating the map intended to split one block from a precinct or if it was an error from using the DRA web interface. The file as originally downloaded is preserved in this folder. The double counted block was eliminated and the unnecessarily split precinct was rejoined. The updated precinct assignment file is in the pa-house folder.
+# Legislative House Plans
+
+* Total Plans: 1
+    * Citizen submissions to LRC: 1
+
+## Citizen Submissions to LRC
+
+1. revisions_to_proposed_state_house_districts_by_ay_jan-18-2022.csv. This plan was downloaded as a precinct assignment file from <https://www.redistricting.state.pa.us/comment/submission/5412> (<https://davesredistricting.org/maps#viewmap::8f9a0b20-1b90-4d99-a10d-721ab4ad8285>).
+
+Although downloaded from DRA as a "precinct assignment file", the file contained one precinct (42091003077, assigned to House District 153) which was split into its constituent blocks, and one block (420912014083006) which was both assigned to House District 153 *and* overlapped with an unsplit precinct assigned to House District 151. The resulting file was invalid because of the double-counted block. It is not clear whether the person creating the map intended to split one block from a precinct or if it was an error from using the DRA web interface. The file as originally downloaded is preserved in this folder. The double counted block was eliminated and the unnecessarily split precinct was rejoined. The updated precinct assignment file is in the pa-house folder.

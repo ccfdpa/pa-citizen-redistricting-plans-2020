@@ -2,6 +2,8 @@
 
 This folder contains 6 block assignment files.
 
+## Submissions to Court Case 464 MD 465 MD
+
 1. 464_MD_465_MD_voters_of_pa was superseded by a corrected submission, which appears in the pa-congressional folder as 464_MD_465_MD_voters_of_pa(corrected).csv. The first submission is stored here for completeness.
 
 Five of the 464 MD 465 MD submissions incorrectly used the LRC block file, which split some Census blocks. The LRC assignments were converted to Census block assignments using [lrc_baf_to_census_baf.R](/lrc_baf_to_census_baf.R). The original submissions are here, and the converted files are in the pa-congressional folder.

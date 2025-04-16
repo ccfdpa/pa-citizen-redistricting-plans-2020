@@ -1,7 +1,7 @@
 # Legislative Senate Plans
 
-* Number of Total Plans: 4
-* Citizen Submissions to LRC: 4
+* Total Plans: 4
+    * Citizen submissions to LRC: 4
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as shapefiles.
 

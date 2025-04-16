@@ -1,7 +1,7 @@
 # Legislative Senate Plans
 
-* Total Plans: 22
-    * Plans originally submitted as precinct assignment files or downloaded from DRA as PAFs: 22
+* Total Plans: 49
+    * Plans originally submitted as precinct assignment files or downloaded from DRA as PAFs: 23
     * Plans submitted as block assignment files or downloaded from DRA or DistrictBuilder as BAFs: 22
     * Plans submitted as shapefiles or DistrictBuilder links: 4
 

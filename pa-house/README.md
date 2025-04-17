@@ -1,8 +1,8 @@
 # Legislative House Plans
 
 * Total Plans: 
-    * Plans originally submitted as precinct assignment files: 4
-    * Plans submitted as block assignment files or DRA links: 22
+    * Plans originally submitted as precinct assignment files: 3
+    * Plans submitted as block assignment files or DRA links: 23
     * Plans submitted as shapefiles or DistrictBuilder links: 8
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search>. Precinct assignment files are stored here. Block assignment files are stored in the </original/pa-house-baf> folder, and have been converted to precinct assignment files using [baf_to_paf.R](/baf_to_paf.R).

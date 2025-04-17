@@ -1,6 +1,6 @@
 # Legislative House Plans
 
-* Total Plans: 
+* Total Plans: 34
     * Plans originally submitted as precinct assignment files: 3
     * Plans submitted as block assignment files or DRA links: 23
     * Plans submitted as shapefiles or DistrictBuilder links: 8

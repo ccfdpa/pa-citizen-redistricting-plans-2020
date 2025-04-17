@@ -14,7 +14,6 @@ Best estimate precinct assignment files have been made for shapefiles, utilizing
 1. a_fair_pa_house_map_that_is_judicially_enforceable_by_rh_dec-1-2021.csv - downloaded as a precinct assignment file at https://www.redistricting.state.pa.us/comment/submission/628 (https://davesredistricting.org/maps#viewmap::0e3bed34-e415-472c-87c9-41bf3080c76c)
 1. pa_house_by_srf_by_sf_jan-4-2022.csv - downloaded as a precinct assignment file at https://www.redistricting.state.pa.us/comment/submission/1657 (https://davesredistricting.org/maps#viewmap::7e1d45ab-da95-4762-8a28-8fd0136254c8)
 1. revision_to_lrc-house-preliminary_map_by_js_jan-12-2022.csv - downloaded as a precinct assignment file at https://www.redistricting.state.pa.us/comment/submission/3334 (https://davesredistricting.org/maps#viewmap::c11bbab8-8606-4860-a394-494316387c1e)
-1. revisions_to_proposed_state_house_districts_by_ay_jan-18-2022.csv - The original plan submitted to the LRC was not valid. This file is a best-guess repair of the original file, which is in the folder original/pa-house-paf
 
 ## Block Assignment File Submissions to LRC
 
@@ -40,6 +39,7 @@ The LRC redistricts using whole precincts. However many citizen plans were only 
 1. pa_house_dist_77_82_171_proposed_map_by_bk_jan-16-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/4571 (https://davesredistricting.org/maps#viewmap::80b92ea7-0c05-4c6f-8489-01b874e3c016)
 1. preliminary_lrc_map-lancaster_50-96-41_edit_by_ar_dec-20-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/934 (https://davesredistricting.org/maps#viewmap::17353986-529d-47f2-ace4-e512537f1dd7)
 1. proposed_revisions_for_the_lrc_house_map_by_ck_jan-6-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/1993 (https://davesredistricting.org/maps#viewmap::155bb35d-3ccc-45fb-85a7-92db68b9d211)
+1. revisions_to_proposed_state_house_districts_by_ay_jan-18-2022- downloaded as a block assignment file from <https://www.redistricting.state.pa.us/comment/submission/5412> (<https://davesredistricting.org/maps#viewmap::8f9a0b20-1b90-4d99-a10d-721ab4ad8285>).
 1. state_house_prioritizing_splitting_compactness_by_rc_aug-2-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/15
 1. westmoreland_united_by_mk_jan-17-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/5081
 

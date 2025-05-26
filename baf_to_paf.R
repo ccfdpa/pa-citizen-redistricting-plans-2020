@@ -3,6 +3,7 @@ library(sf)
 
 # setwd("pa-citizen-redistricting-plans-2020/")
 
+# Convert single BAF to PAF
 baf_to_paf = function(baf, crosswalk, 
                       baf_block_col = "GEOID20", 
                       district_col = "District", 
@@ -11,25 +12,33 @@ baf_to_paf = function(baf, crosswalk,
                       pop_col = "population"
                       ) {
   baf = baf |>
-    inner_join(crosswalk, by = join_by({{ baf_block_col }} == {{ crosswalk_block_col }} ))
+    inner_join(crosswalk, by = join_by(!!baf_block_col == !!crosswalk_block_col))
   
   paf = baf |>
-    summarise(population = sum(!!sym(pop_col)), .by = c({{ precinct_col }}, {{ district_col }})) |>
-    slice_max(population, by = {{ precinct_col }}) |>
-    select({{ precinct_col}}, {{ district_col}})
+    summarise(population = sum(!!sym(pop_col)), .by = c(!!precinct_col, !!district_col)) |>
+    slice_max(population, by = !!precinct_col) |>
+    select(!!precinct_col, !!district_col)
+  
+  # paf = baf |>
+  #   summarise(population = sum(!!sym(pop_col)), .by = c({{ precinct_col }}, {{ district_col }})) |>
+  #   slice_max(population, by = {{ precinct_col }}) |>
+  #   select({{ precinct_col}}, {{ district_col}})
   
   return(paf)
 }
 
-# Self-contained version
+# Convert entire directory of BAFs (all CSVs) to PAFs.
+# Will only process CSVs with two columns, but does not
+# expect specifc column names. If you have CSVs with two
+# columns that are *not* BAFs, they should be removed.
 baf_dir_to_paf_dir = function(source_dir, target_dir, crosswalk,
-                              crosswalk_block_col = "GEOID20",
-                              precinct_col = "VTD",
-                              pop_col = "population",
-                              output_precinct_col = "GEOID20",
-                              output_district_col = "District"
-) {
-  
+                    # baf_block_col = "GEOID20", 
+                    # district_col = "District", 
+                    crosswalk_block_col = "GEOID20",
+                    precinct_col = "VTD",
+                    pop_col = "population"
+                    ) {
+
   fns = list.files(source_dir, pattern = "*.csv")
   
   i = 0
@@ -44,18 +53,18 @@ baf_dir_to_paf_dir = function(source_dir, target_dir, crosswalk,
     print(paste(fn, "passed check"))
     
     df_block_col = colnames(df)[1]
+    print(df_block_col)
     df_district_col = colnames(df)[2]
-
-    baf = df |>
-      inner_join(crosswalk, by = join_by({{ df_block_col }} == {{ crosswalk_block_col }} ))
+    print(df_district_col)
     
-    paf = baf |>
-      summarise(population = sum(!!sym(pop_col)), .by = c({{ precinct_col }}, {{ df_district_col }})) |>
-      slice_max(population, by = {{ precinct_col }}) |>
-      select({{ precinct_col}}, {{ df_district_col}})
-    
-    # Use colnames because can't dplyr rename to work
-    colnames(paf) = c(output_precinct_col, output_district_col)
+    paf = baf_to_paf(
+      df, crosswalk,
+      baf_block_col = colnames(df)[1],
+      district_col = colnames(df)[2],
+      crosswalk_block_col = crosswalk_block_col,
+      precinct_col = precinct_col,
+      pop_col = pop_col
+    )
     
     # Write paf to file in target_dir
     write_csv(paf, paste0(target_dir, fn))
@@ -63,7 +72,12 @@ baf_dir_to_paf_dir = function(source_dir, target_dir, crosswalk,
   }
 }
 
-crosswalk = st_read("~/Documents/Professional/Projects/Redistricting/data/PA 2021 Certified Redistricting Data/Data Set 2 with prisoner reallocation/WP_Blocks.shp")
+# Download 2021 Certified Redistricting Data zip file from
+# https://www.redistricting.state.pa.us/resources/GISData/Census/2021/2021-DataSet2-WithPrisoner/LRC%20Data%20Release%202%20-%20Geography.zip
+# Unzip
+# Load WP_Blocks.shp
+fn = "path/to/your/data/WP_Blocks.shp"
+crosswalk = st_read(fn)
 crosswalk = crosswalk |>
   st_drop_geometry() |>
   as_tibble() |>
@@ -73,10 +87,6 @@ crosswalk = crosswalk |>
     population = P0010001, 
     .keep = "none"
   )
-
-# Test
-tmp = baf_to_paf(baf, crosswalk, crosswalk_block_col = "block_id", precinct_col = "precinct_id")
-rm(tmp)
 
 source_dir = "original/pa-senate-baf/"
 target_dir = "pa-senate/"

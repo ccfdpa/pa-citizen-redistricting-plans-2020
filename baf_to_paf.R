@@ -36,8 +36,10 @@ baf_dir_to_paf_dir = function(source_dir, target_dir, crosswalk,
                     # district_col = "District", 
                     crosswalk_block_col = "GEOID20",
                     precinct_col = "VTD",
-                    pop_col = "population"
-                    ) {
+                    pop_col = "population",
+                    output_precinct_col = "GEOID20",
+                    output_district_col = "District"
+) {
 
   fns = list.files(source_dir, pattern = "*.csv")
   
@@ -65,6 +67,8 @@ baf_dir_to_paf_dir = function(source_dir, target_dir, crosswalk,
       precinct_col = precinct_col,
       pop_col = pop_col
     )
+
+    colnames(paf) = c(output_precinct_col, output_district_col)
     
     # Write paf to file in target_dir
     write_csv(paf, paste0(target_dir, fn))

@@ -21,7 +21,7 @@ The plans collected here come from three sources:
 
 All known plans are collected as CSVs in three folders: pa-congressional, pa-senate, and pa-house. These files are block assignment files (for Congressional redistricting) or precinct assignment files (for Senate and House redistricting). Each folder contains a README which lists the plans in the folder as well as the source of the plan.
 
-Not all plans were submitted as block/precinct assignment files, and some that were had anomalies that needed to be created. Any plan that was altered is preserved in its original form in the 
+Not all plans were submitted as block/precinct assignment files, and some that were had anomalies that needed to be repaird. Any plan that was altered is preserved in its original form in the original folder, grouped by subfolder based on the submission format.
 
 ## Supporting Scripts
 

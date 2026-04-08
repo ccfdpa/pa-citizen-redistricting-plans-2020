@@ -1,8 +1,8 @@
 # Legislative House Plans
 
-* Total Plans: 34
+* Total Plans: 33
     * Plans originally submitted as precinct assignment files: 3
-    * Plans submitted as block assignment files or DRA links: 23
+    * Plans submitted as block assignment files or DRA links: 22
     * Plans submitted as shapefiles or DistrictBuilder links: 8
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search>. Precinct assignment files are stored here. Block assignment files are stored in the </original/pa-house-baf> folder, and have been converted to precinct assignment files using [baf_to_paf.R](/baf_to_paf.R).
@@ -22,7 +22,6 @@ The LRC redistricts using whole precincts. However many citizen plans were only 
 1. concise_westmoreland_by_mb_jan-7-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/2220 (https://davesredistricting.org/maps#viewmap::73edef3f-f979-45a5-badf-5a044d3a3cdf)
 1. consolidated_lrc_testimony_solutions(all)_by_pr_jan-15-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/4288 (https://davesredistricting.org/maps#viewmap::1fe3194a-1068-4c59-ac51-2bfa735fa26b) - unassigned precinct on Lake Erie assigned to District 1
 1. do_not_split_mechanicsburg_borough_by_km_jan-18-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/5108 (https://davesredistricting.org/maps#viewmap::f95d5c12-3651-4f85-99a5-90de67f6debb)
-1. kieran_francke_by_kf_nov-16-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/504 (https://davesredistricting.org/maps#viewmap::5f6aaa70-7421-4d4c-8860-63ded8a8b003)
 1. lancaster_county_metro_area_by_ed_dec-21-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/973
 1. least_splitting_and_most_competitive_map_by_jm_dec-9-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/742 (https://davesredistricting.org/maps#viewmap::dfbe7abc-8f4e-48a2-9cdb-86e7ebb2bacc)
 1. lrc_testimony_solutions_consolidated(all)_by_mw_jan-14-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/4121 (https://davesredistricting.org/maps#viewmap::1fe3194a-1068-4c59-ac51-2bfa735fa26b) - unassigned precinct on Lake Erie assigned to District 1
@@ -42,6 +41,12 @@ The LRC redistricts using whole precincts. However many citizen plans were only 
 1. revisions_to_proposed_state_house_districts_by_ay_jan-18-2022- downloaded as a block assignment file from <https://www.redistricting.state.pa.us/comment/submission/5412> (<https://davesredistricting.org/maps#viewmap::8f9a0b20-1b90-4d99-a10d-721ab4ad8285>).
 1. state_house_prioritizing_splitting_compactness_by_rc_aug-2-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/15
 1. westmoreland_united_by_mk_jan-17-2022 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/5081
+
+### Invalid Plans
+
+One invalid BAF was submitted. It is retained in the folder [/original/pa-house-baf](/original/pa-house-baf), and is omitted in counts above.
+
+1. kieran_francke_by_kf_nov-16-2021 - downloaded as a block assignment file at https://www.redistricting.state.pa.us/comment/submission/504 (https://davesredistricting.org/maps#viewmap::5f6aaa70-7421-4d4c-8860-63ded8a8b003)
 
 ## Shapefile Submissions to LRC
 

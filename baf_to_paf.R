@@ -29,7 +29,7 @@ baf_to_paf = function(baf, crosswalk,
 
 # Convert entire directory of BAFs (all CSVs) to PAFs.
 # Will only process CSVs with two columns, but does not
-# expect specifc column names. If you have CSVs with two
+# expect specific column names. If you have CSVs with two
 # columns that are *not* BAFs, they should be removed.
 baf_dir_to_paf_dir = function(source_dir, target_dir, crosswalk,
                     # baf_block_col = "GEOID20", 

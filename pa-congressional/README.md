@@ -28,7 +28,7 @@ All of the plans submitted to the 464 MD 465 MD court case were downloaded as bl
 1. pa_us_house_redistrict_by_griffin_tripp_2021-11-22
 1. pa1_by_kenneth_shirk_2021-11-13
 1. plan_1-bipartisan_plan_by_nathan_rybner_2021-11-11
-1. plan_1-bipartisan_plan_by_nathan_rybner_2021-11-11
+1. reduced_bias_variant_2_based_on_A.Holt_map_0_by_michael_waxenberg_2021-12-05
 1. reduced_bias_variant_based_on_dtl_citizens_map_by_michael_waxenberg_2021-12-06
 
 ## Citizen Submissions to LRC
@@ -54,8 +54,8 @@ Five of the 464 MD 465 MD submissions incorrectly used the LRC block file, which
 1. 464_MD_465_MD_house_democratic_caucus
 1. 464_MD_465_MD_khalif_ali
 1. 464_MD_465_MD_republican_legislator
-1. 464_MD_465_MD_senate_democratic_caucus-map_2
-1. 464_MD_465_MD_senate_democratic-caucus-map_1
+1. 464_MD_465_MD_senate_democratic_caucus_map_2
+1. 464_MD_465_MD_senate_democratic_caucus_map_1
 1. 464_MD_465_MD_voters_of_pa(corrected)
 1. 464_MD_465_MD_ccfd
 1. 464_MD_465_MD_citizen_voters

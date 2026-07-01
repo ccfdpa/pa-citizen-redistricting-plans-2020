@@ -1,12 +1,13 @@
 # Legislative Senate Plans
 
-* Total Plans: 22
-    * Citizen submissions to LRC: 22
+* Total Plans: 23
+    * Citizen submissions to LRC: 23
 
 All of the plans were sourced from the LRC website at <https://www.redistricting.state.pa.us/comment/search> as block assignment files. They were converted to precinct assignment files using [baf_to_paf.R](/baf_to_paf.R). 
 
 ## Citizen Submissions to LRC
 
+1. 38th_pa_senate_plan_by_rh.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1538 (https://davesredistricting.org/maps#viewmap::a422ba85-e21f-478c-9dd7-855368a72ee8)
 1. allentown_map_by_as_jan-4-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1616 (https://davesredistricting.org/maps#viewmap::01c1044c-2940-414f-a8c8-fcec75312143)
 1. bucks_co._senate_districts_communities_of_interest_by_at_aug-2-2021.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/13
 1. holt_senate_map(exception_2_pittsburgh_division)_by_sp_jan-2-2022.csv - downloaded as block assignment file at https://www.redistricting.state.pa.us/comment/submission/1472 (https://davesredistricting.org/maps#viewmap::17aa3f34-6c2f-487d-bb71-653c1fe2cf87)

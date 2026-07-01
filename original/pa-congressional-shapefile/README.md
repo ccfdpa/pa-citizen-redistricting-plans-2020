@@ -25,7 +25,7 @@ All files were submitted as shapefiles and converted into block assignment files
 1. pa_us_house_redistrict_by_griffin_tripp_2021-11-22
 1. pa1_by_kenneth_shirk_2021-11-13
 1. plan_1-bipartisan_plan_by_nathan_rybner_2021-11-11
-1. plan_1-bipartisan_plan_by_nathan_rybner_2021-11-11
+1. reduced_bias_variant_2_based_on_A.Holt_map_0_by_michael_waxenberg_2021-12-05
 1. reduced_bias_variant_based_on_dtl_citizens_map_by_michael_waxenberg_2021-12-06
 
 ## Citizen Submissions to LRC

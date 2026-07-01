@@ -1,6 +1,6 @@
 # Congressional Plans
 
-This folder contains 6 block assignment files.
+This folder contains 7 block assignment files.
 
 ## Submissions to Court Case 464 MD 465 MD
 

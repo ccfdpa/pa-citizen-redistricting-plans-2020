@@ -7,6 +7,9 @@ All plans were downloaded from <https://www.pacourts.us/news-and-statistics/case
 
 ## Submissions to Court Case 464 MD 465 MD
 
-1. 464_MD_465_MD_carter_plan
-1. 464_MD_465_MD_senate_democratic_caucus-map_2
-1. 464_MD_465_MD_senate_democratic-caucus-map_1
+| Plan |
+| --- |
+| `464_MD_465_MD_carter_plan` |
+| `464_MD_465_MD_senate_democratic_caucus-map_2` |
+| `464_MD_465_MD_senate_democratic-caucus-map_1` |
+

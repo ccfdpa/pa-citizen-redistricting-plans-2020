@@ -2,11 +2,11 @@
 
 This repository collects all known redistricting plans submitted to official redistricting bodies and courts by citizens, advocacy groups, political actors, and other interested parties during the 2021 redistricting round (using 2020 Census data) in Pennsylvania. It includes plans for Congress (17 districts), the Pennsylvania State Senate (50 districts), and the Pennsylvania House of Representatives (203 districts).
 
-The primary purpose of this repository is to support a [Concerned Citizens for Democracy](https://ccfdpa.org/) whitepaper on citizen paricipation in Pennsylvania redistricting. The secondary purpose is to provide researchers and advocates the benefit of our work in gathering these plans from multiple sources and preparing them for analysis.
+The primary purpose of this repository is to support a Concerned Citizens for Democracy [whitepaper on citizen paricipation in Pennsylvania redistricting](https://ccfdpa.org/2026/07/15/new-ccfd-publication-citizen-submitted-plans-in-the-2021-pennsylvania-redistricting-the-value-of-public-input/). The secondary purpose is to provide researchers and advocates the benefit of our work in gathering these plans from multiple sources and preparing them for analysis.
 
 ## Redistricting in Pennsylvania
 
-Pennsylvania is unusual in using two separate procedures for legislative and Congressional redistricting, and the two halves of the 2021 cycle offered very different opportunities for citizen participation. This section gives only enough background to explain where the plans in this repository come from; see the full [CCFD whitepaper](https://ccfdpa.org/) for the complete account.
+Pennsylvania is unusual in using two separate procedures for legislative and Congressional redistricting, and the two halves of the 2021 cycle offered very different opportunities for citizen participation. This section gives only enough background to explain where the plans in this repository come from; see the full [CCFD whitepaper](https://ccfdpa.org/2026/07/15/new-ccfd-publication-citizen-submitted-plans-in-the-2021-pennsylvania-redistricting-the-value-of-public-input/) for the complete account.
 
 **Legislative (PA House and Senate)** districts are drawn by the Legislative Reapportionment Commission (LRC), a bipartisan five-member commission. For the 2021 cycle the LRC held public hearings and operated a public comment website through which citizens could submit proposed plans as file uploads or as DistrictBuilder or Dave's Redistricting App (DRA) links. The LRC adopted the final maps on February 4, 2022, using Census P.L. 94-171 data adjusted for **prisoner reallocation** (counting incarcerated people at their last known address rather than at the prison).
 
